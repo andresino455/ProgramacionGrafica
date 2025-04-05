@@ -1,4 +1,3 @@
-C:\Users\ASUS\Desktop\Prograf\GraficoDeLaU\GraficoDeLaU\obj\Debug\net5.0\GraficoDeLaU.csproj.AssemblyReference.cache
 C:\Users\ASUS\Desktop\Prograf\GraficoDeLaU\GraficoDeLaU\obj\Debug\net5.0\GraficoDeLaU.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASUS\Desktop\Prograf\GraficoDeLaU\GraficoDeLaU\obj\Debug\net5.0\GraficoDeLaU.AssemblyInfoInputs.cache
 C:\Users\ASUS\Desktop\Prograf\GraficoDeLaU\GraficoDeLaU\obj\Debug\net5.0\GraficoDeLaU.AssemblyInfo.cs

@@ -54,7 +54,11 @@ class Ventana : GameWindow
         _view = Matrix4.LookAt(_cameraPosition, _cameraPosition + _cameraFront, _cameraUp);
         _projection = Matrix4.CreatePerspectiveFieldOfView(MathHelper.DegreesToRadians(45f), (float)Size.X / Size.Y, 0.1f, 100f);
 
-        figuraU = new FiguraU(_shaderProgram);
+        this.figuraU = new FiguraU(  // <-- Ahora se asigna al campo de la clase
+            _shaderProgram,
+            "vertices.json",
+            "indices.json"
+        );
     }
 
     protected override void OnRenderFrame(FrameEventArgs args)
